@@ -2213,6 +2213,19 @@ ul.list2 {
 	background-color: transparent;
 }
 
+/* .list3.checklist li:before {
+	content: "\f00c";
+	font-family: FontAwesome;
+	font-size: 14px;
+	left: -30px;
+	color: #00ccbd;
+	width: auto;
+	height: auto;
+	background-color: transparent;
+} */
+
+
+
 .list2.checklist li:first-child:before {
 	margin-top: -9px;
 }
@@ -4127,7 +4140,7 @@ div.ppt {
 
 .section_padding_bottom_150 > [class*="container"] {
 	/* padding-bottom: 150px; */
-	padding-bottom: 80px
+	padding-bottom: 35px
 }
 
 .section_padding_bottom_165 > [class*="container"] {
