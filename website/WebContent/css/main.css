@@ -6278,7 +6278,8 @@ body.boxed {
 /* media items - common side and vertical items */
 .with_border .item-media,
 .with_border .entry-thumbnail {
-	margin: -2px;
+/* 	margin: -2px; */
+margin:- 0.5px;
 	z-index: 2;
 }
 
@@ -10271,7 +10272,8 @@ section .intro_section .slide_description_wrapper {
 }
 
 .intro_section.ds img {
-	opacity: 0.2;
+	/* opacity: 0.2; */
+	    opacity: 0.4;
 }
 
 .intro_section .flexslider:before, .intro_section .flexslider:after {
